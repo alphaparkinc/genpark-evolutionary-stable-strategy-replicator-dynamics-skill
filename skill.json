@@ -1,0 +1,17 @@
+{
+  "name": "genpark-evolutionary-stable-strategy-replicator-dynamics-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Evolutionary Stable Strategy (ESS) & Replicator Dynamics Population ODE Solver",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "game-theory",
+    "evolutionary-game-theory",
+    "replicator-dynamics",
+    "ess"
+  ]
+}
